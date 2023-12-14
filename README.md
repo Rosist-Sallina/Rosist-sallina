@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there , I'm  Rosist.👋
 
-<!--
-**Rosist-Sallina/Rosist-sallina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :house: I'm born in Xi'an , Shannxi Province .
 
-Here are some ideas to get you started:
+  now studying in Tsinghua University for CS and Finance.
+  
+- 🌱 I’m currently learning C++ and try to learn rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: umaumaliu@outlook.com
+- 😄 Pronouns: read me more from Rosist-sallina.github.io
+
+
+![](https://github-readme-stats.vercel.app/api?username=Rosist-sallina&show_icons=true&theme=transparent)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/Rosist-sallina/count.svg) visitor,Thank You!
+
