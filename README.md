@@ -1,6 +1,9 @@
 ### Hi there , I'm  Rosist.👋
 
-- :house: I'm born in Xi'an , Shannxi Province .
+[![MasterHead](https://i.imgs.ovh/2023/12/14/mGKNK.jpeg)]([https://github.com/Rosist-Sallina])
+-Photo of Seo Patra 
+
+- :house: I'm born in Xi'an , Shan.comnnxi Province .
 
   now studying in Tsinghua University for CS and Finance.
   
