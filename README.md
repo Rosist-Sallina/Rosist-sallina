@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning C++ and try to learn rust
 
-- 📫 How to reach me: umaumaliu@outlook.com
+- 📫 How to reach me: sallinarosist@gmail.com
 - 😄 Pronouns: read me more from Rosist-sallina.github.io
 
 
