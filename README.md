@@ -1,14 +1,10 @@
 ### Hi there , I'm  Rosist.👋
 
-[![MasterHead](https://vip.helloimg.com/i/2024/04/24/662909da4fb11.jpg)]([https://github.com/Rosist-Sallina])
+- :house: I was born in Xi'an , Shannxi Province .
 
--Photo of Suou Patra 
-
-- :house: I'm born in Xi'an , Shannnxi Province .
-
-  now studying in Tsinghua University for CS and Finance.
+  now underguaduate in Tsinghua Univ. for CS and Finance.
   
-- 🌱 I’m currently learning C++ and Rust and C#
+- 🌱 I’m currently learning C++ and Rust and C# and Python
 
 - 📫 How to reach me: sallinarosist@gmail.com
 - 😄 Pronouns: read me more from Rosist-sallina.github.io
